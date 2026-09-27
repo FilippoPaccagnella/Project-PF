@@ -15,4 +15,3 @@ if own_burger.strip().lower() == "yes" or own_burger.strip().lower() == "y":
     bread_type = input ("Which type of Bread would you like?")
 else:
     preset_burger = input("Which of the following Preset Burger would you like?")
-    
